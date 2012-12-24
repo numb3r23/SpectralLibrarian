@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SpectrumList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Spectra>
+    <Spectrum SpectralInterpolation="Linear" LambdaMax="830" LambdaMin="360" SpectrumName="Incandescent: 0" CategoryName="Incandescent" ImageIndex="0">
+      <SpectralPoints>
+        <SpectralPoint Lambda="360" Intensity="1" />
+        <SpectralPoint Lambda="580" Intensity="0" />
+        <SpectralPoint Lambda="830" Intensity="1" />
+      </SpectralPoints>
+    </Spectrum>
+    <Spectrum SpectralInterpolation="Linear" LambdaMax="830" LambdaMin="360" SpectrumName="Fluorescent: 0" CategoryName="Fluorescent" ImageIndex="1">
+      <SpectralPoints>
+        <SpectralPoint Lambda="360" Intensity="1" />
+        <SpectralPoint Lambda="580" Intensity="0" />
+        <SpectralPoint Lambda="830" Intensity="1" />
+      </SpectralPoints>
+    </Spectrum>
+    <Spectrum SpectralInterpolation="Linear" LambdaMax="830" LambdaMin="360" SpectrumName="Osram P-VIP" CategoryName="GasDischarge" ImageIndex="2">
+      <SpectralPoints>
+        <SpectralPoint Lambda="360" Intensity="0.6302142857142855" />
+        <SpectralPoint Lambda="360.98265895953773" Intensity="0.63142857142857145" />
+        <SpectralPoint Lambda="363.29479768786143" Intensity="0.63142857142857145" />
+        <SpectralPoint Lambda="365.60693641618514" Intensity="0.68571428571428572" />
+        <SpectralPoint Lambda="367.91907514450884" Intensity="0.71142857142857141" />
+        <SpectralPoint Lambda="370.23121387283254" Intensity="0.7142857142857143" />
+        <SpectralPoint Lambda="372.54335260115624" Intensity="0.7142857142857143" />
+        <SpectralPoint Lambda="374.85549132947995" Intensity="0.71142857142857141" />
+        <SpectralPoint Lambda="377.16763005780365" Intensity="0.69142857142857139" />
+        <SpectralPoint Lambda="379.47976878612735" Intensity="0.68285714285714283" />
+        <SpectralPoint Lambda="381.79190751445105" Intensity="0.66285714285714281" />
+        <SpectralPoint Lambda="384.10404624277476" Intensity="0.64571428571428569" />
+        <SpectralPoint Lambda="386.41618497109846" Intensity="0.63428571428571423" />
+        <SpectralPoint Lambda="388.72832369942216" Intensity="0.62" />
+        <SpectralPoint Lambda="391.04046242774587" Intensity="0.60571428571428576" />
+        <SpectralPoint Lambda="393.35260115606957" Intensity="0.5971428571428572" />
+        <SpectralPoint Lambda="395.66473988439327" Intensity="0.59428571428571431" />
+        <SpectralPoint Lambda="397.976878612717" Intensity="0.68857142857142861" />
+        <SpectralPoint Lambda="400.28901734104068" Intensity="0.72" />
+        <SpectralPoint Lambda="402.60115606936438" Intensity="0.77714285714285714" />
+        <SpectralPoint Lambda="404.91329479768808" Intensity="0.78" />
+        <SpectralPoint Lambda="407.22543352601178" Intensity="0.78285714285714281" />
+        <SpectralPoint Lambda="409.53757225433549" Intensity="0.78" />
+        <SpectralPoint Lambda="411.84971098265919" Intensity="0.74571428571428566" />
+        <SpectralPoint Lambda="414.16184971098289" Intensity="0.71714285714285719" />
+        <SpectralPoint Lambda="416.47398843930659" Intensity="0.66857142857142859" />
+        <SpectralPoint Lambda="418.7861271676303" Intensity="0.65428571428571425" />
+        <SpectralPoint Lambda="421.098265895954" Intensity="0.67142857142857137" />
+        <SpectralPoint Lambda="423.4104046242777" Intensity="0.69428571428571428" />
+        <SpectralPoint Lambda="425.72254335260141" Intensity="0.73142857142857143" />
+        <SpectralPoint Lambda="428.03468208092511" Intensity="0.75714285714285712" />
+        <SpectralPoint Lambda="430.34682080924881" Intensity="0.77714285714285714" />
+        <SpectralPoint Lambda="432.65895953757251" Intensity="0.77714285714285714" />
+        <SpectralPoint Lambda="434.97109826589622" Intensity="0.79714285714285715" />
+        <SpectralPoint Lambda="437.28323699421992" Intensity="0.8" />
+        <SpectralPoint Lambda="439.59537572254362" Intensity="0.8" />
+        <SpectralPoint Lambda="441.90751445086732" Intensity="0.8" />
+        <SpectralPoint Lambda="444.219653179191" Intensity="0.77142857142857146" />
+        <SpectralPoint Lambda="446.53179190751473" Intensity="0.71142857142857141" />
+        <SpectralPoint Lambda="448.84393063583843" Intensity="0.67714285714285716" />
+        <SpectralPoint Lambda="451.15606936416214" Intensity="0.64" />
+        <SpectralPoint Lambda="453.46820809248584" Intensity="0.58857142857142852" />
+        <SpectralPoint Lambda="455.78034682080954" Intensity="0.56285714285714283" />
+        <SpectralPoint Lambda="458.09248554913324" Intensity="0.54285714285714282" />
+        <SpectralPoint Lambda="460.40462427745695" Intensity="0.52" />
+        <SpectralPoint Lambda="462.71676300578065" Intensity="0.49428571428571427" />
+        <SpectralPoint Lambda="465.02890173410435" Intensity="0.48" />
+        <SpectralPoint Lambda="467.34104046242805" Intensity="0.48" />
+        <SpectralPoint Lambda="469.65317919075176" Intensity="0.48571428571428571" />
+        <SpectralPoint Lambda="471.96531791907546" Intensity="0.48571428571428571" />
+        <SpectralPoint Lambda="474.27745664739916" Intensity="0.48571428571428571" />
+        <SpectralPoint Lambda="476.58959537572287" Intensity="0.48" />
+        <SpectralPoint Lambda="478.90173410404657" Intensity="0.46857142857142858" />
+        <SpectralPoint Lambda="481.21387283237027" Intensity="0.48571428571428571" />
+        <SpectralPoint Lambda="483.526011560694" Intensity="0.48857142857142855" />
+        <SpectralPoint Lambda="485.83815028901768" Intensity="0.49142857142857144" />
+        <SpectralPoint Lambda="488.15028901734138" Intensity="0.48857142857142855" />
+        <SpectralPoint Lambda="490.46242774566508" Intensity="0.47714285714285715" />
+        <SpectralPoint Lambda="492.77456647398878" Intensity="0.45428571428571429" />
+        <SpectralPoint Lambda="495.08670520231249" Intensity="0.42571428571428571" />
+        <SpectralPoint Lambda="497.39884393063619" Intensity="0.40571428571428569" />
+        <SpectralPoint Lambda="499.71098265895989" Intensity="0.4" />
+        <SpectralPoint Lambda="502.0231213872836" Intensity="0.38857142857142857" />
+        <SpectralPoint Lambda="504.3352601156073" Intensity="0.36857142857142855" />
+        <SpectralPoint Lambda="506.647398843931" Intensity="0.35714285714285715" />
+        <SpectralPoint Lambda="508.9595375722547" Intensity="0.34285714285714286" />
+        <SpectralPoint Lambda="511.27167630057841" Intensity="0.32857142857142857" />
+        <SpectralPoint Lambda="513.58381502890211" Intensity="0.32571428571428573" />
+        <SpectralPoint Lambda="515.89595375722581" Intensity="0.32" />
+        <SpectralPoint Lambda="518.20809248554951" Intensity="0.32" />
+        <SpectralPoint Lambda="520.52023121387322" Intensity="0.32" />
+        <SpectralPoint Lambda="522.83236994219692" Intensity="0.31428571428571428" />
+        <SpectralPoint Lambda="525.14450867052062" Intensity="0.31714285714285712" />
+        <SpectralPoint Lambda="527.45664739884432" Intensity="0.3342857142857143" />
+        <SpectralPoint Lambda="529.768786127168" Intensity="0.37714285714285717" />
+        <SpectralPoint Lambda="532.08092485549173" Intensity="0.40571428571428569" />
+        <SpectralPoint Lambda="534.39306358381543" Intensity="0.44571428571428573" />
+        <SpectralPoint Lambda="536.70520231213914" Intensity="0.50285714285714289" />
+        <SpectralPoint Lambda="539.01734104046284" Intensity="0.55142857142857138" />
+        <SpectralPoint Lambda="541.32947976878654" Intensity="0.67428571428571427" />
+        <SpectralPoint Lambda="543.64161849711024" Intensity="0.7371428571428571" />
+        <SpectralPoint Lambda="545.953757225434" Intensity="0.75714285714285712" />
+        <SpectralPoint Lambda="548.26589595375765" Intensity="0.7628571428571429" />
+        <SpectralPoint Lambda="550.57803468208135" Intensity="0.7628571428571429" />
+        <SpectralPoint Lambda="552.890173410405" Intensity="0.74285714285714288" />
+        <SpectralPoint Lambda="555.20231213872876" Intensity="0.72" />
+        <SpectralPoint Lambda="557.51445086705246" Intensity="0.67142857142857137" />
+        <SpectralPoint Lambda="559.82658959537616" Intensity="0.6171428571428571" />
+        <SpectralPoint Lambda="562.13872832369987" Intensity="0.55714285714285716" />
+        <SpectralPoint Lambda="564.45086705202357" Intensity="0.53142857142857147" />
+        <SpectralPoint Lambda="566.76300578034727" Intensity="0.53714285714285714" />
+        <SpectralPoint Lambda="569.075144508671" Intensity="0.58" />
+        <SpectralPoint Lambda="571.38728323699468" Intensity="0.6" />
+        <SpectralPoint Lambda="573.69942196531838" Intensity="0.60285714285714287" />
+        <SpectralPoint Lambda="576.01156069364208" Intensity="0.60571428571428576" />
+        <SpectralPoint Lambda="578.32369942196578" Intensity="0.60285714285714287" />
+        <SpectralPoint Lambda="580.63583815028949" Intensity="0.58285714285714285" />
+        <SpectralPoint Lambda="582.94797687861319" Intensity="0.55714285714285716" />
+        <SpectralPoint Lambda="585.26011560693689" Intensity="0.51714285714285713" />
+        <SpectralPoint Lambda="587.5722543352606" Intensity="0.49428571428571427" />
+        <SpectralPoint Lambda="589.8843930635843" Intensity="0.47428571428571431" />
+        <SpectralPoint Lambda="592.196531791908" Intensity="0.44571428571428573" />
+        <SpectralPoint Lambda="594.5086705202317" Intensity="0.42571428571428571" />
+        <SpectralPoint Lambda="596.82080924855541" Intensity="0.41142857142857142" />
+        <SpectralPoint Lambda="599.13294797687911" Intensity="0.38571428571428573" />
+        <SpectralPoint Lambda="601.44508670520281" Intensity="0.36857142857142855" />
+        <SpectralPoint Lambda="603.75722543352651" Intensity="0.3457142857142857" />
+        <SpectralPoint Lambda="606.06936416185022" Intensity="0.3342857142857143" />
+        <SpectralPoint Lambda="608.38150289017392" Intensity="0.32571428571428573" />
+        <SpectralPoint Lambda="610.69364161849762" Intensity="0.31428571428571428" />
+        <SpectralPoint Lambda="613.00578034682133" Intensity="0.30571428571428572" />
+        <SpectralPoint Lambda="615.317919075145" Intensity="0.3" />
+        <SpectralPoint Lambda="617.63005780346873" Intensity="0.29142857142857143" />
+        <SpectralPoint Lambda="619.94219653179243" Intensity="0.28857142857142859" />
+        <SpectralPoint Lambda="622.25433526011614" Intensity="0.28" />
+        <SpectralPoint Lambda="624.56647398843984" Intensity="0.28" />
+        <SpectralPoint Lambda="626.87861271676354" Intensity="0.27714285714285714" />
+        <SpectralPoint Lambda="629.19075144508724" Intensity="0.27142857142857141" />
+        <SpectralPoint Lambda="631.502890173411" Intensity="0.26857142857142857" />
+        <SpectralPoint Lambda="633.81502890173465" Intensity="0.26571428571428574" />
+        <SpectralPoint Lambda="636.12716763005835" Intensity="0.26285714285714284" />
+        <SpectralPoint Lambda="638.439306358382" Intensity="0.26285714285714284" />
+        <SpectralPoint Lambda="640.75144508670576" Intensity="0.26" />
+        <SpectralPoint Lambda="643.06358381502946" Intensity="0.25714285714285712" />
+        <SpectralPoint Lambda="645.37572254335316" Intensity="0.25428571428571428" />
+        <SpectralPoint Lambda="647.68786127167687" Intensity="0.25428571428571428" />
+        <SpectralPoint Lambda="650.00000000000057" Intensity="0.25142857142857145" />
+        <SpectralPoint Lambda="652.31213872832427" Intensity="0.24857142857142858" />
+        <SpectralPoint Lambda="654.624277456648" Intensity="0.24571428571428572" />
+        <SpectralPoint Lambda="656.93641618497168" Intensity="0.24571428571428572" />
+        <SpectralPoint Lambda="659.24855491329538" Intensity="0.24571428571428572" />
+        <SpectralPoint Lambda="661.56069364161908" Intensity="0.24285714285714286" />
+        <SpectralPoint Lambda="663.87283236994278" Intensity="0.24285714285714286" />
+        <SpectralPoint Lambda="666.18497109826649" Intensity="0.24" />
+        <SpectralPoint Lambda="668.49710982659019" Intensity="0.24" />
+        <SpectralPoint Lambda="670.80924855491389" Intensity="0.24" />
+        <SpectralPoint Lambda="673.1213872832376" Intensity="0.24" />
+        <SpectralPoint Lambda="675.4335260115613" Intensity="0.23714285714285716" />
+        <SpectralPoint Lambda="677.745664739885" Intensity="0.23714285714285716" />
+        <SpectralPoint Lambda="680.0578034682087" Intensity="0.23428571428571429" />
+        <SpectralPoint Lambda="682.36994219653241" Intensity="0.23428571428571429" />
+        <SpectralPoint Lambda="684.68208092485611" Intensity="0.23428571428571429" />
+        <SpectralPoint Lambda="686.99421965317981" Intensity="0.23428571428571429" />
+        <SpectralPoint Lambda="689.30635838150351" Intensity="0.23428571428571429" />
+        <SpectralPoint Lambda="691.61849710982722" Intensity="0.23428571428571429" />
+        <SpectralPoint Lambda="693.93063583815092" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="696.24277456647462" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="698.55491329479833" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="700.867052023122" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="703.17919075144573" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="705.49132947976943" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="707.80346820809314" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="710.11560693641684" Intensity="0.23142857142857143" />
+        <SpectralPoint Lambda="712.42774566474054" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="714.73988439306424" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="717.052023121388" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="719.36416184971165" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="721.67630057803535" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="723.988439306359" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="726.30057803468276" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="728.61271676300646" Intensity="0.22857142857142856" />
+        <SpectralPoint Lambda="730.92485549133016" Intensity="0.2257142857142857" />
+        <SpectralPoint Lambda="733.23699421965387" Intensity="0.22285714285714287" />
+        <SpectralPoint Lambda="735.54913294797757" Intensity="0.22" />
+        <SpectralPoint Lambda="737.86127167630127" Intensity="0.22" />
+        <SpectralPoint Lambda="740.173410404625" Intensity="0.21714285714285714" />
+        <SpectralPoint Lambda="742.48554913294868" Intensity="0.21428571428571427" />
+        <SpectralPoint Lambda="744.79768786127238" Intensity="0.21428571428571427" />
+        <SpectralPoint Lambda="747.10982658959608" Intensity="0.21428571428571427" />
+        <SpectralPoint Lambda="749.42196531791978" Intensity="0.21428571428571427" />
+        <SpectralPoint Lambda="751.73410404624349" Intensity="0.21428571428571427" />
+        <SpectralPoint Lambda="754.04624277456719" Intensity="0.21142857142857144" />
+        <SpectralPoint Lambda="756.35838150289089" Intensity="0.21142857142857144" />
+        <SpectralPoint Lambda="758.6705202312146" Intensity="0.21142857142857144" />
+        <SpectralPoint Lambda="760.9826589595383" Intensity="0.21142857142857144" />
+        <SpectralPoint Lambda="763.294797687862" Intensity="0.20857142857142857" />
+        <SpectralPoint Lambda="765.6069364161857" Intensity="0.20857142857142857" />
+        <SpectralPoint Lambda="767.91907514450941" Intensity="0.20857142857142857" />
+        <SpectralPoint Lambda="770.23121387283311" Intensity="0.20571428571428571" />
+        <SpectralPoint Lambda="772.54335260115681" Intensity="0.20571428571428571" />
+        <SpectralPoint Lambda="774.85549132948051" Intensity="0.20571428571428571" />
+        <SpectralPoint Lambda="777.16763005780422" Intensity="0.20571428571428571" />
+        <SpectralPoint Lambda="779.47976878612792" Intensity="0.20571428571428571" />
+        <SpectralPoint Lambda="781.79190751445162" Intensity="0.20285714285714285" />
+        <SpectralPoint Lambda="784.10404624277533" Intensity="0.20285714285714285" />
+        <SpectralPoint Lambda="786.416184971099" Intensity="0.20285714285714285" />
+        <SpectralPoint Lambda="788.72832369942273" Intensity="0.20285714285714285" />
+        <SpectralPoint Lambda="791.04046242774643" Intensity="0.2" />
+        <SpectralPoint Lambda="793.35260115607014" Intensity="0.2" />
+        <SpectralPoint Lambda="795.66473988439384" Intensity="0.2" />
+        <SpectralPoint Lambda="797.97687861271754" Intensity="0.2" />
+        <SpectralPoint Lambda="800.28901734104124" Intensity="0.19714285714285715" />
+        <SpectralPoint Lambda="802.601156069365" Intensity="0.19714285714285715" />
+        <SpectralPoint Lambda="804.91329479768865" Intensity="0.19714285714285715" />
+        <SpectralPoint Lambda="807.22543352601235" Intensity="0.19714285714285715" />
+        <SpectralPoint Lambda="809.537572254336" Intensity="0.19714285714285715" />
+        <SpectralPoint Lambda="811.84971098265976" Intensity="0.19428571428571428" />
+        <SpectralPoint Lambda="814.16184971098346" Intensity="0.19428571428571428" />
+        <SpectralPoint Lambda="816.47398843930716" Intensity="0.19428571428571428" />
+        <SpectralPoint Lambda="818.78612716763087" Intensity="0.19428571428571428" />
+        <SpectralPoint Lambda="821.09826589595457" Intensity="0.19428571428571428" />
+        <SpectralPoint Lambda="823.41040462427827" Intensity="0.19142857142857142" />
+        <SpectralPoint Lambda="825.722543352602" Intensity="0.19142857142857142" />
+        <SpectralPoint Lambda="828.03468208092568" Intensity="0.19142857142857142" />
+        <SpectralPoint Lambda="830" Intensity="0.19142857142857142" />
+      </SpectralPoints>
+    </Spectrum>
+    <Spectrum SpectralInterpolation="Linear" LambdaMax="830" LambdaMin="360" SpectrumName="Combustion: 0" CategoryName="Combustion" ImageIndex="3">
+      <SpectralPoints>
+        <SpectralPoint Lambda="360" Intensity="1" />
+        <SpectralPoint Lambda="580" Intensity="0" />
+        <SpectralPoint Lambda="830" Intensity="1" />
+      </SpectralPoints>
+    </Spectrum>
+    <Spectrum SpectralInterpolation="Linear" LambdaMax="830" LambdaMin="360" SpectrumName="LED: 0" CategoryName="LED" ImageIndex="4">
+      <SpectralPoints>
+        <SpectralPoint Lambda="360" Intensity="1" />
+        <SpectralPoint Lambda="580" Intensity="0" />
+        <SpectralPoint Lambda="830" Intensity="1" />
+      </SpectralPoints>
+    </Spectrum>
+    <Spectrum SpectralInterpolation="Linear" LambdaMax="830" LambdaMin="360" SpectrumName="Plasma: 0" CategoryName="Plasma" ImageIndex="5">
+      <SpectralPoints>
+        <SpectralPoint Lambda="360" Intensity="1" />
+        <SpectralPoint Lambda="580" Intensity="0" />
+        <SpectralPoint Lambda="830" Intensity="1" />
+      </SpectralPoints>
+    </Spectrum>
+  </Spectra>
+</SpectrumList>
